@@ -2,7 +2,9 @@
 
 ## Packets you NEED to install
 -pyautogui
+
 -tkinter
+
 -pillow
 
 ## How to install
